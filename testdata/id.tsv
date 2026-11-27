@@ -1,0 +1,667 @@
+Tom sedang makan tadi.	Tom sedang makan siang.	Apa yang sedang Tom makan?	Unflipped
+Saya tidak suka nama Anda.	Saya tidak suka namamu.	Saya lupa nama Anda.	Unflipped
+Dia akan pulang kerumah besok.	Besok dia di rumah.	Kami sedang berada dalam perjalanan pulang.	Unflipped
+Aku terluka oleh perkataannya.	Perkataannya benar-benar menyakitkan.	Sayangnya itu benar.	Unflipped
+Kemaren saya menerima surat Anda.	Dia telah menulis sebuah surat.	Aku menerima suratmu kemarin.	Flipped
+Tom adalah seorang mahasiswa.	Tom adalah seorang siswa SMA.	Tom telah diracuni.	Unflipped
+Bagaimana kabarmu, Mary?	Mary belum berangkat.	Bagaimana keadaan Mary?	Flipped
+Aku pernah membaca buku ini sebelumnya.	Aku sudah selesai membaca buku ini.	Tolong bacalah sekali lagi.	Unflipped
+Dari sini hanya 10 menit dengan berjalan kaki.	Hanya sepuluh menitan berjalan kaki.	Tamu duduk beberapa menit, tetapi melihat semuanya.	Unflipped
+Apa kau bicara padaku?	Apa yang membuatmu mengatakan itu?	Apakah kau sedang bicara padaku?	Flipped
+Tolong jangan mati!	Aku ingin mati!	Aku mohon, jangan mati!	Flipped
+Semua orang tertarik pada cerita tersebut.	Aku penasaran tentang satu hal.	Semua orang menunjukkan ketertarikan pada cerita itu.	Flipped
+Berhentilah melamun.	Berhentilah bermimpi.	Kau menghalangi.	Unflipped
+Kapan kamu mulai pakai lensa?	Sejak kapan kamu menggunakan lensa kontak?	Kapan pertunjukannya mulai?	Unflipped
+Kalau kau melihat lirik lagunya, kau akan tahu kalau lirik itu tidak begitu berarti.	Kalau kamu melihat liriknya, kamu akan tahu kalau itu tidak berarti banyak.	Saya tidak tahu apa arti kata ini.	Unflipped
+Aku tidak mencintainya lagi.	sudah tidak suka	Aku sudah tidak lagi mempercayai dia.	Unflipped
+Apakah kamu tahu ini milik siapa?	Tahukah kamu milik siapa ini?	Buku ini milikmu?	Unflipped
+Ambil barang-barangmu.	Aku membawakanmu sesuatu.	Ambil barangmu!	Flipped
+Dia mampu menguasai situasi yang ada.	Dia pasti berhasil.	Dia mampu memahami situasi yang ada.	Flipped
+John dulu menikah dengan Jane.	Ia menikah dengannya.	John dulunya adalah suami Jane.	Flipped
+Saya datang dari Singapura.	Saya datang dari Australia.	Saya dari Singapura.	Flipped
+Tom mengkhianati kepercayaanku.	Tom membuatku kecewa.	Tom adalah seorang kawanku.	Unflipped
+Kita mendapat masalah yang besar.	Kami mendapat masalah besar.	Kami mengkhawatirkanmu.	Unflipped
+Mary belum berangkat.	Bagaimana keadaan Mary?	Mary belum mulai.	Flipped
+Pada pukul berapa kamu bangun pagi ini?	Anda bangun pada pukul berapa?	Kamu pergi jam berapa?	Unflipped
+Tom tidak punya jabatan.	Tom telah diracuni.	Tom tidak punya kantor.	Flipped
+Di rumah saya ada tiga ekor ayam.	Rumah saya terletak di sebuah bukit.	Ada tiga ayam di rumah saya.	Flipped
+Aku tidak bisa melakukannya.	Aku tidak akan pernah mau melakukannya.	Aku tidak dungu.	Unflipped
+Pulpenmu lebih baik daripada milikku.	Pulpenku tidak sebagus milikmu.	Punya kalian lebih buruk.	Unflipped
+Tangan Tom besar.	Tom sangat bagus.	Tom punya tangan yang besar.	Flipped
+Ia menikah dengannya.	Dia sudah berumur.	Ia menikahinya.	Flipped
+Anak gadih tu manangkok ikan ketek.	Gadis itu menangkap seekor ikan kecil.	Para hadirin nampak bosan.	Unflipped
+Kamu adalah pelakunya.	Kamu berani sekali.	Kamu adalah seorang penjahat.	Flipped
+Aku terkena flu.	Saya kira Anda terkena flu.	Aku sedang pilek saat ini.	Flipped
+Aku sangat suka budaya Prancis.	Aku sangat ingin melihat Paris.	Aku suka kebudayaan Perancis.	Flipped
+Dia kadang kadang aneh	Terkadang dia bisa menjadi orang aneh.	Ini agak aneh.	Unflipped
+Dia memiliki pengetahuan yang luas tentang bidang linguistik.	Dia sangat menguasai bidang linguistik.	Saya suka mempelajari bahasa-bahasa kuno.	Unflipped
+Tempat asal saya Australia.	Saya datang dari Australia.	Saya tinggal di Indonesia.	Unflipped
+Tom tertarik pada pendakian gunung.	Tom memiliki ketertarikan pada pendakian gunung.	Tom tertarik pada matematika.	Unflipped
+Kamu kelihatan sedang bosan.	Kamu terlihat khawatir.	Kamu terlihat sangat lelah.	Flipped
+Aku ingin tahu apa hidupku ini berharga?	Ada satu hal yang ingin aku tahu.	Aku ingin tahu apa aku punya alasan untuk hidup?	Flipped
+Kau bisa mengandalkan Jack.	Saya yakin kamu akan berhasil.	Jack bisa diandalkan.	Flipped
+Tom masih berada di rumah sakit.	Tom telah diracuni.	Tom masih dirawat di rumah sakit.	Flipped
+Dia adalah manajer dari departemen pemasaran.	Dia adalah kepala dari departemen penjualan.	Itu adalah toko yang terkemuka.	Unflipped
+Hujan mungkin akan turun besok.	Mungkin besok akan turun hujan.	Aku tidak tahu apakah besok akan hujan.	Unflipped
+Mari kita mencari sesuatu untuk diduduki.	Beri aku sesuatu untuk diminum.	Mari kita cari tempat yang bisa diduduki di sebelah depan.	Flipped
+Dia buta karena memiliki satu mata.	Sebelah matanya buta.	Mata kamu ada kantung matanya tuh.	Unflipped
+Kepada dia.	Kepada kalian.	Dia sudah berumur.	Unflipped
+Aku tidak bisa menaikkan lengan kananku.	Aku tidak bisa mengangkat lengan kananku.	Aku tidak bisa melakukannya.	Unflipped
+Bahasa Inggris Anda meningkatkan.	Bahasa Inggrismu meningkat.	Belajar bahasa Inggris adalah kerja keras.	Unflipped
+Dia mengarungi Samudera Pasifik dalam waktu 30 hari.	Dia membutuhkan waktu 30 hari untuk mengarungi Samudera Pasifik.	Dia telah mengijinkannya untuk bepergian sendiri.	Unflipped
+Makin hari makin dingin.	Sore ini sangat dingin.	Hari demi hari suhunya semakin dingin.	Flipped
+Aku membawakanmu sesuatu.	Ambil barang-barangmu.	Saya ada beberapa barang buat kamu.	Flipped
+Apa pelajaran favoritmu?	Pelajaran mana yang paling kamu sukai?	Apa makanan favoritmu?	Unflipped
+Kamu yakin itu cukup?	Apa kamu pikir itu cukup?	Kamu capek?	Unflipped
+Aku masih belum yakin.	Aku sudah tidak percaya padanya.	Saya belum yakin.	Flipped
+Apa yang dilakukan ayahmu?	Apa pekerjaan ayahmu?	Aku tahu ayahmu.	Unflipped
+Kau harus melaksanakan tugasmu.	Kau harus memenuhi kewajibanmu.	Kamu harusnya melihatnya.	Unflipped
+Pria itu makan kacang.	Pria itu sedang makan kacang.	Makanlah sesuatu.	Unflipped
+Ruangan ini ada AC nya.	Ada AC di ruangan ini.	Ruangan ini mendapat sedikit sinar matahari.	Unflipped
+Suhunya minus 6 derajat.	Suhunya 6 derajat di bawah titik beku.	Sore ini sangat dingin.	Unflipped
+Kau seharusnya tidak pergi seorang diri.	Kau tidak boleh pergi sendirian.	Kamu tidak harus pergi kecuali kalau kamu memang mau.	Unflipped
+Rumahku menghadap ke laut.	Rumahku menghadap laut.	Rumahku di dekat sini.	Unflipped
+Aku mengharapkanmu semalam.	Aku ingin menunjukkannya padamu.	Saya mengharapkan kedatangan Anda semalam.	Flipped
+Bagaimana bisa tercapai simpulan seperti ini?	Apa bisa dibetulkan?	Kenapa kau berpikir begitu?	Flipped
+Aku ingin minuman dingin.	Aku merasa ingin minum.	Aku ingin minum sesuatu yang dingin.	Flipped
+Itu sudah lama terjadi.	Mereka pergi lebih awal.	Itu terjadi dahulu kala.	Flipped
+Suhu minimum hari ini 3 °C.	Suhu terendah hari ini adalah 3 °C.	Hari ini panas.	Unflipped
+Aku tidak bisa berbahasa Jerman.	Saya kurang mahir berbicara dalam bahasa inggris.	Saya tidak bisa bahasa Jerman.	Flipped
+Kau bisa makan apapun yang kau inginkan.	Hari ini Anda bisa makan sebanyak yang Anda inginkan.	Kau bisa makan apapun sesukamu.	Flipped
+Sepertinya dia sakit kepala.	Sepertinya dia kepalanya sakit.	Aku sakit kepala.	Unflipped
+Beli tiket di mana, ya?	Di mana saya bisa beli tiket?	Ada di mana stasiunnya?	Unflipped
+Memangnya nggak panas?	Hari ini panas sekali!	Memangnya kau tidak kepanasan?	Flipped
+Haruskah aku menunggu sampai kau datang menjemputku?	Kenapa kau tidak datang?	Apa kau ingin aku menunggu sampai kau datang?	Flipped
+Mereka pulang lebih awal.	Dia akan pulang kerumah besok.	Mereka pergi lebih awal.	Flipped
+Tom tidak tahu banyak tentang Indonesia.	Tom tidak punya jabatan.	Tom tidak mengetahui banyak hal tentang Indonesia.	Flipped
+Bunga apa yang paling kamu sukai?	Mobil apa yang kamu suka?	Bunga mana yang paling Anda sukai?	Flipped
+Aku percaya akan adanya hantu.	Aku pikir hantu itu ada.	Aku tidak takut dengan hantu.	Unflipped
+Semua anak bisa melakukan itu.	Semua anak bisa melakukan hal semacam itu.	Siapapun bisa melakukan itu.	Unflipped
+Dia naik mobil impor.	Kereta sudah datang.	Ia mengendarai mobil impor.	Flipped
+Bagaimana liburan Anda?	Bagaimana liburan musim panas Anda?	Ke mana Anda akan pergi liburan?	Unflipped
+Penulis favoritmu siapa?	Siapa yang menulis buku itu?	Pengarang favoritmu siapa?	Flipped
+Apa kalian ada waktu kosong siang ini?	Apa kau tidak bertugas malam ini?	Pada pukul berapa kamu bangun pagi ini?	Unflipped
+Saya tidak mengerti kata itu.	Aku pikir aku paham.	Saya tidak tahu apa arti kata ini.	Flipped
+Ini adalah foto terbaru?	Apakah ini gambar yang tadi?	Dia berkualitas tinggi.	Unflipped
+Yumi adalah salah satu temanku.	Yumi adalah salah seorang dari temanku.	Yumi pergi ke sana seorang diri.	Unflipped
+Sekarang sedang makan apel.	Saya sedang makan sebuah apel.	Aku baru makan.	Unflipped
+Kucing tidak suka air.	Kucing benci air.	Kucing bisa melihat meskipun gelap.	Unflipped
+Saya dapat mengerti apa yang dia katakan.	Aku pikir aku paham.	Aku bisa memahami apa yang ia katakan.	Flipped
+Tom bermain lempar-lemparan dengan anak laki-lakinya.	Tom bermain dengan anak laki-lakinya.	Tom menyelinap keluar kelas.	Unflipped
+Buku ini milikmu?	Apa ini bukumu?	Siapa yang menulis buku itu?	Unflipped
+Hujannya bertahan selama seminggu.	Hujan terus terun selama seminggu.	Hujannya bertahan selama semalam penuh.	Unflipped
+Mari berpesta.	Mari kita mulai pestanya.	Aku tidak menghadiri pesta itu.	Unflipped
+Di mana toiletnya?	Di mana kamar kecilnya?	Di mana mereka?	Unflipped
+Saya bukan dokter.	Aku bukan dokter.	Dia adalah seorang dokter.	Unflipped
+Kami akan pergi ke teater.	Kami akan pergi melihat sebuah pementasan drama.	Saya pergi ke bioskop.	Unflipped
+Kami selalu patuh terhadap peraturan.	Peraturan seharusnya dipatuhi.	Kita harus taat peraturan.	Unflipped
+Hari ini tanggal 18 Juni dan merupakan ulang tahunnya Muiriel!	Hari ini tanggal 18 Juni, hari ini adalah hari Ulang tahun Muiriel	Selamat Ulang tahun Muiriel!	Unflipped
+Kami telah melakukan yang terbaik yang kami bisa.	Kita harus selalu melakukan yang terbaik.	Kami melakukan yang terbaik.	Flipped
+Tracy belum pernah menggunakan sumpit sebelumnya.	Tom sedang makan tadi.	Sebelumnya Tracy belum pernah sekalipun menggunakan sumpit.	Flipped
+Sudah jam tujuh.	Saya makan malam jam tujuh lima belas.	Ini sudah jam tujuh.	Flipped
+Saya merasa terhormat bisa berjumpa dengan anda.	Aku tidak menyangka akan bertemu denganmu di sini.	Sebuah kehormatan bisa bertemu Anda.	Flipped
+Kebanyakan orang Inggris konservatif.	Pernah ke Inggris?	Orang Inggris pada umumnya konservatif.	Flipped
+Andai saja kau memberitahuku lebih awal.	Cepatlah, atau kau akan terlambat.	Andai saja kau memberitahuku sebelumnya.	Flipped
+Apa yang dikatakan oleh pak guru memotivasi Mary untuk belajar lebih giat.	Bagaimana keadaan Mary?	Apa yang dikatakan guru itu membuat Mary belajar lebih giat.	Flipped
+Aku butuh perangko.	Aku banyak mengoleksi perangko.	Aku butuh beberapa perangko.	Flipped
+Seperti ayah, seperti anak.	Anak laki-laki mirip dengan ayahnya.	Dia terlihat sangat mirip dengan ayahnya.	Unflipped
+Lepaskan Tom!	Bebaskan Tom.	Tom telah dikeluarkan.	Unflipped
+Kamu tidak perlu menjawab pertanyaan ini.	Kau tidak memerlukan ini.	Kamu tidak perlu menjawab pertanyaan-pertanyaan itu.	Flipped
+Saya bukan idiot.	Aku merasa bodoh.	Saya tidak bodoh.	Flipped
+Ayah temanku adalah seorang novelis terkenal.	Ayahku tidak membiarkanku menikahinya.	Aku punya teman yang ayahnya novelis terkenal.	Flipped
+Kemarin, sepedaku dicuri.	Sepedaku dicuri.	Sepeda saya telah dicuri semalam.	Flipped
+Tolong pinjam pisaunya.	Tolong betulkan ini.	Bolehkah aku meminjam pisaumu?	Flipped
+Berikan aku sebotol anggur.	Beri aku sesuatu untuk diminum.	Tolong berikan saya anggur satu botol.	Flipped
+Boleh saya melihat paspor Anda?	Tunjukkan paspor Anda.	Boleh saya melihat SIM Anda?	Unflipped
+Sekarang saya tahu rahasiamu.	Ini perihal yang rahasia.	Sekarang saya tahu rahasia-rahasiamu.	Flipped
+Anda mau mencobanya?	Di mana kamu mencobanya?	Mau coba?	Flipped
+Orang tuaku memberitahuku bahwa kita harus menghormati orang yang lanjut usia.	Saya merasa terhormat bisa berjumpa dengan anda.	Orang tuaku menyuruhku untuk menghormati orang yang lanjut usia.	Flipped
+Masih ada orang-orang yang tidak bisa membaca.	Masih ada orang yang tuna aksara.	Tolong bacalah sekali lagi.	Unflipped
+Apartemen saya ada di dekat sini.	Rumahku dekat stasiun.	Rumahku di dekat sini.	Flipped
+Pabrik ini juga beroperasi pada malam hari.	Pabrik ini beroperasi meskipun di malam hari.	Dia bekerja di sebuah pabrik.	Unflipped
+Apa cara terbaik untuk melakukan itu?	Bagaimana pestanya?	Apa cara terbaik melakukan itu?	Flipped
+Kamu lebih suka musim panas atau musim dingin?	Bagaimana liburan musim panas Anda?	Mana yang lebih kamu suka: musim panas atau musim dingin?	Flipped
+Aku bukan pelajar.	Saya bukan siswa.	Saya adalah seorang siswa.	Unflipped
+Apa yang kita akan lakukan hari ini?	Hari ini kami libur.	Apa yang ingin kamu lakukan hari ini?	Flipped
+Tak apa untuk takut, Tom.	Tom sudah cukup membantu.	Tidak masalah merasa takut, Tom.	Flipped
+Kamu satu-satunya orang yang bisa menyelamatkan dunia!	Kau tidak boleh pergi sendirian.	Kamu satu-satunya yang bisa menyelamatkan dunia.	Flipped
+Aku minta maaf sudah mengecewakanmu.	Mungkin kalian telah melakukan sebuah kesalahan.	Maaf sudah mengecewakanmu.	Flipped
+Saya ingin menjumpai kamu.	Aku ingin menunjukkannya padamu.	Saya ingin bertemu kamu.	Flipped
+Aku masih belum menerima kabar darinya.	Aku masih belum yakin.	Masih belum ada kabar darinya.	Flipped
+Saya makan malam jam tujuh lima belas.	Saya makan malam pada pukul tujuh lewat lima belas menit.	Ini sudah jam tujuh.	Unflipped
+Dia masih belum ada.	Dia masih belum di sini.	Masih belum ada kabar darinya.	Unflipped
+Apa yang tertulis di suratnya?	Dia telah menulis sebuah surat.	Apa yang dia katakan di dalam suratnya?	Flipped
+Bagaimana kabar keluargamu?	Bagaimana liburan Anda?	Bagaimana kabar orang tuamu?	Flipped
+Kami mengangkat Jack sebagai ketua.	Kami memilih Jack sebagai pembicara.	Kami mengangkat James sebagai ketua.	Unflipped
+Belok kanan.	Ambil jalan di sebelah kanan.	Ayo kembali.	Unflipped
+Aku bekerja di sini. Aku bukan tamu.	Saya bekerja di sini. Saya bukan tamu.	Pekerjaanku telah selesai.	Unflipped
+Aku adalah seorang laki-laki tanpa wanita	Aku laki-laki.	Aku adalah lelaki yang bebas.	Flipped
+Tidak ada mawar yang tidak berduri.	Kamu tidak bisa membuat dadar tanpa memecah telur.	Kau tidak memerlukannya.	Unflipped
+Dia adalah keturunan orang Rusia.	Dia orang Rusia.	Dia masih muda.	Unflipped
+Tom menyelinap keluar kelas.	Tom menyelinap keluar dari kelas secara diam-diam.	Tom kelas berapa?	Unflipped
+Mama, aku lapar.	Mama, perutku lapar.	Saya lapar.	Unflipped
+Kapan pertunjukannya mulai?	Kapan pemutaran filmnya dimulai?	Akan dimulai jam berapa?	Unflipped
+Tom adalah temanku.	Tom mengecewakanku.	Tom adalah seorang kawanku.	Flipped
+Saya kira Anda terkena flu.	Apakah kamu sedang sakit flu?	Aku terkena flu.	Unflipped
+Cinta juga bisa mengacaukan pikiran seseorang.	Tidak ada hal lain yang bisa kulakukan.	Tapi cinta bisa membuatmu patah hati.	Flipped
+Bisakah saudaramu mengendarai mobil?	Apakah Anda punya mobil?	Lai bisa Uda wak baok oto?	Flipped
+Sulit sekali mencari pekerjaan.	Mencari pekerjaan itu susah.	Kita harus terus bekerja.	Unflipped
+Ada dimana barang-barangmu?	Apakah kamu di sana?	Mana jasmu?	Flipped
+Aku takut sebentar lagi akan turun hujan.	Aku akan tinggal jika hujan.	Sepertinya akan turun hujan.	Flipped
+Tom keluar dari mobil.	Tom telah dikeluarkan.	Tom keluar dari mobilnya.	Flipped
+Saya lebih suka ikan dibandingkan daging.	Aku lebih suka ikan ketimbang daging.	Aku menginginkan sesuatu untuk dimakan.	Unflipped
+Tom orang Inggris.	Tom adalah orang Inggris.	Tom di rumah.	Unflipped
+Aku butuh informasi lagi.	Aku ingin lebih banyak informasi.	Aku butuh informasi.	Unflipped
+Kalau kamu tidak mau ketinggalan kereta, lebih baik kamu bergegas.	Jika Anda tidak ingin ketinggalan kereta, sebaiknya Anda bergegas.	Cepatlah, atau kau akan terlambat.	Unflipped
+Aku sudah tidak sama seperti yang dulu.	Aku sudah tidak menyukaimu lagi.	Aku bukan aku yang dulu.	Flipped
+Aku tidak menghadiri pesta itu.	Mari berpesta.	Aku tidak hadir dalam pesta itu.	Flipped
+Tom sudah berada di sini, tetapi Bill masih belum.	Tom sudah ada di sini, tapi Bill masih belum datang.	Tom tidak berlari secepat Bill.	Unflipped
+Tom dan Sue berkenalan sejak tahun 1985.	Tom lebih tua daripada aku.	Tom dan Sue sudah saling mengenal sejak 1985.	Flipped
+Tom tidak percaya teori evolusi.	Tom terlihat sedikit kebingungan.	Tom tidak percaya evolusi.	Flipped
+Aku suka biru.	Saya suka coklat.	Saya suka warna biru.	Flipped
+Dia meninggal kemaren.	Dia meninggal kemarin.	Dia sudah berumur.	Unflipped
+Yumi pergi ke sana sendirian.	Yumi pergi ke sana seorang diri.	Yumi adalah salah seorang dari temanku.	Unflipped
+Apakah kursi itu kosong?	Apakah bangku ini kosong?	Apa masih ada kursi kosong?	Unflipped
+Dia terlihat suram.	Kamu terlihat khawatir.	Dia terlihat muda.	Unflipped
+Hari ini panas.	Hari ini sangat panas.	Makin hari makin dingin.	Unflipped
+Hanya ibuku yang benar-benar mengerti aku.	Tidak ada yang memahami saya.	Hanya ibuku yang mengerti aku.	Flipped
+Tom dipecat.	Tom telah diracuni.	Tom telah dikeluarkan.	Flipped
+Dia punya kebiasaan datang terlambat.	Mari kita melakukannya setelah ia tiba.	Dia suka terlambat.	Flipped
+Biarkan aku mencobanya.	Ayo coba sekali lagi.	Mari saya coba!	Flipped
+Aku tidak tahan dengan cuaca panas ini.	Hari ini sangat panas.	Aku sudah tidak tahan lagi dengan cuaca panas ini.	Flipped
+Dia bekerja di sebuah pabrik.	Ia memberitahunya untuk bekerja lebih keras.	Dia bekerja di pabrik.	Flipped
+Mau pergi makan bersamaku?	Sudah makan?	Maukah Anda pergi makan bersama saya?	Flipped
+Kami memilih John untuk menjadi kapten.	Kami memilih Jack sebagai pembicara.	Kami memilih John sebagai kapten.	Flipped
+Punya korek?	Boleh minta api?	Sudah makan?	Unflipped
+Kamu punya alamatnya Tom?	Apa kamu tahu alamat rumah Tom?	Apa kabar, Tom?	Unflipped
+Saya makan Hotdog siang ini.	Saya baru saja selesai makan pagi.	Saya makan hot dog untuk makan siang.	Flipped
+Saya ingat melihat dia.	Saya ingat melihatnya.	Aku mengingat dengan jelas pemandangan itu.	Unflipped
+Jamku sangat akurat.	Keretanya tiba tepat waktu.	Jam saya akurat.	Flipped
+Berapa lama kau akan tinggal di sini?	Di mana kamu akan tinggal?	Berapa lama kamu menginap?	Flipped
+Saya mau kopi.	Apa Anda mau kopi?	Aku merasa ingin minum.	Unflipped
+Tom sudah cukup membantu.	Tom sudah cukup kooperatif sejauh ini.	Kami membantu Tom.	Unflipped
+Bagaimana kalau kamu membantunya?	Kenapa kamu tidak membantunya?	Aku kira kau bisa membantuku.	Unflipped
+Permisi. Metro ada di mana ya?	Permisi. Stasiun kereta bawah tanah ada di mana ya?	Ada di mana stasiunnya?	Unflipped
+Hari ini saya akan pergi mengunjungi museum.	Hari ini saya ada waktu luang.	Aku akan mengunjungi sebuah museum hari ini.	Flipped
+Aku tidak punya pisau untuk memotongnya.	Aku tidak punya pisau yang bisa kugunakan untuk memotong.	Aku tidak berniat menyusahkanmu.	Unflipped
+Dia adalah seorang dokter.	Dokter itu memberikannya padanya.	Dia seorang dokter.	Flipped
+Aku selalu berjalan ke sekolah.	Saya pergi ke sekolah.	Aku selalu datang ke sekolah dengan berjalan kaki.	Flipped
+Hujan terus turun hingga sehari penuh.	Hujannya berlanjut hingga sehari penuh.	Hujan terus terun selama seminggu.	Unflipped
+Tentu saja aku mengingat adegan itu.	Aku mengingat dengan jelas pemandangan itu.	Saya ingat melihatnya.	Unflipped
+Apa Anda sering melakukan perjalanan?	Apa yang Anda lakukan untuk menghabiskan waktu liburan Anda?	Apakah Anda banyak melakukan perjalanan?	Flipped
+Nancy terlihat seperti adikku.	Nancy menceritakan kepadaku tentang kebakaran itu.	Nancy mirip dengan adikku.	Flipped
+Aku tidak bisa mengingat namanya.	Saya lupa nama Anda.	Aku tidak dapat mengingat apapun tentang hal itu.	Unflipped
+Dia masih muda.	Kamu muda, ya.	Mereka masih muda.	Unflipped
+Aku punya saudara kembar adik laki-laki.	Aku punya saudara kembar.	Dia kakak laki-lakiku.	Unflipped
+Tom orangnya baik?	Tom sangat bagus.	Apa Tom sehat?	Flipped
+Siapa yang memberitahumu aku sakit?	Apa kau membicarakanku?	Siapa yang memberitahumu kalau aku sakit?	Flipped
+Tom terus berbicara.	Tom lanjut berbicara.	Tom berbicara sangat cepat.	Unflipped
+Wanita lebih cerdas ketimbang pria.	Wanita lebih pandai ketimbang pria.	Pria itu tidak datang kata perempuan itu.	Unflipped
+Saya menderita sakit kepala yang parah.	Kepala saya masih merasa pusing.	Kepalaku sakit.	Flipped
+Tom lebih tua daripada aku.	Tom mengecewakanku.	Tom lebih besar ketimbang aku.	Flipped
+Tim mana yang kamu favoritkan?	Olahraga mana yang kamu sukai?	Anda penggemar dari tim mana?	Flipped
+Hujannya tidak berhenti, dan terus berlanjut hingga seharian penuh.	Hujannya berlanjut hingga sehari penuh.	Hujannya tidak berhenti hingga seharian penuh.	Flipped
+Novel ini membosankan.	Novel ini membuatku bosan.	Novel barunya akan terbit bulan depan.	Unflipped
+Dia tidak muda.	Dia masih muda.	Dia sudah berumur.	Flipped
+Bagaimana menurutmu pestanya?	Jadi, apa saran Anda?	Pestanya menyenangkan, bukan?	Flipped
+Apakah kamu percaya akan Tuhan?	Apakah anda percaya pada Tuhan?	Kamu yakin itu cukup?	Unflipped
+Tom telah diracuni.	Tom telah dikeluarkan.	Tom keracunan.	Flipped
+Nyalakan radionya.	Tolong nyalakan radionya.	Tolong nyalakan lampu.	Unflipped
+Saya pikir dia sakit.	Kukira dia sakit.	Sepertinya dia kepalanya sakit.	Unflipped
+Pertanyaan bagus!	Ada pertanyaan tentang makanannya?	Ini pertanyaan yang bagus	Flipped
+Ketika tidak mengerti, jangan ragu untuk bertanya.	Jangan ragu untuk menanyakan pertanyaan jika tidak mengerti.	Tidak ada yang mengerti aku.	Unflipped
+Aku tidak sengaja bertemu dengannya.	Kami mengkhawatirkanmu.	Aku tidak pernah bertemu dengannya selama bertahun-tahun.	Unflipped
+Pernah ke Amerika?	Pernah ke Inggris?	Apakah Anda pernah ke Amerika?	Flipped
+Sampai hari ini cuacanya selalu cerah.	Hari ini sangat panas.	Sampai hari ini cuacanya selalu dalam keadaan baik.	Flipped
+Saya makan sepotong sandwich dengan margarin.	Saya makan sandwich dengan margarin.	Saya tidak mau memakan itu.	Unflipped
+Ternyata itu memang benar.	Katakan yang sebenarnya.	Ternyata itu benar.	Flipped
+Aku benci cara bicaranya yang suka lancang.	Aku tidak suka cara bicaranya yang lancang.	Saya tidak boleh bicara hal kebalikannya.	Unflipped
+Apa yang ada di dalam kantongmu?	Apa yang kau simpan di dalam kantongmu?	Apa yang tertulis di suratnya?	Unflipped
+Layanan Bea dan Cukai untuk memeriksa barang bawaan.	Petugas Bea dan Cukai memeriksa kotak-kotak.	Ambil barang-barangmu.	Unflipped
+Jadi, apa yang Anda sarankan?	Jadi apa yang kau sarankan?	Apa yang membuatmu mengatakan itu?	Unflipped
+Langitnya semakin gelap.	Langit itu biru.	Sekarang malam.	Flipped
+Apa kau sudah mulai mempelajari bahasa Prancis?	Apa kamu sudah mulai belajar bahasa Prancis?	Apa kau pernah pergi ke Prancis sebelumnya?	Unflipped
+Dia adalah gambaran dari ayahnya.	Aku tahu ayahmu.	Dia terlihat sangat mirip dengan ayahnya.	Flipped
+Bisa pakai kartu kredit?	Boleh pinjam ponselmu?	Apa pembayarannya bisa menggunakan kartu kredit?	Flipped
+Betapa sombongnya dirimu.	Kau tidak memerlukannya.	Kamu sangat sombong.	Flipped
+Dia sedang menangis.	Dia terus menangis.	Dia tiba-tiba berlinang air mata.	Flipped
+Pernah ke Inggris?	Apakah Anda pernah ke Inggris?	Pernah ke Amerika?	Unflipped
+Aku butuh beberapa informasi.	Aku butuh informasi.	Aku butuh informasi lagi.	Unflipped
+Aku sangat suka rasanya semangka.	Aku suka semangka.	Silakan dinikmati buahnya.	Unflipped
+Aku harap aku bisa melakukan ini.	Aku harap aku mati.	Aku harap aku bisa melakukannya.	Flipped
+Dia sangat mudah marah.	Dia mudah sekali marah.	Dia terlihat suram.	Unflipped
+Hari ini Anda bisa makan sebanyak yang Anda inginkan.	Kau bisa makan apapun yang kau inginkan.	Hari ini kamu boleh makan sepuasnya.	Flipped
+Tom berkata kalau dia ingin menyendiri.	Tom bilang dia ingin ditinggal sendiri.	Tom suka berkeliling sendiri.	Unflipped
+Kualitasnya bagus.	Dia berkualitas tinggi.	Dia benar-benar seorang yang baik.	Unflipped
+Kami menghadapi musim dingin yang keras.	Makin hari makin dingin.	Kami mengalami musim dingin yang sangat sulit.	Flipped
+Cuacanya makin gelap aja ya.	Langitnya semakin gelap.	Cuacanya makin buruk aja ya sepertinya.	Flipped
+Apakah kamu tidur nyenyak?	Apa kamu cukup tidur?	Kamu sudah tidur?	Unflipped
+Sudahkah kau selesai membersihkan kamarmu?	Apa kau sudah selesai membersihkan kamarmu?	Sudahkah kau mencuci mobilnya?	Unflipped
+Sayangnya itu benar.	Ternyata itu benar.	Sayangnya, begitu.	Flipped
+Bahasa Persia itu tidak sulit.	Saya tidak bisa bahasa Jerman.	Bahasa Persia tidaklah sulit.	Flipped
+Bendera ini sangat indah.	Bendera ini sangat bagus.	Itu sangat aneh.	Unflipped
+Aku sudah tidak sabar ingin pergi ke Paris.	Kamu pernah ke Paris?	Aku sangat ingin melihat Paris.	Flipped
+Itu adalah toko yang terkemuka.	Toko itu punya reputasi yang baik.	Ini dijual.	Unflipped
+Ia memberitahunya untuk bekerja lebih keras.	Ia memberitahunya untuk belajar lebih keras.	Kita harus terus bekerja.	Unflipped
+Dia bernama Lucifera.	Namanya Lucifera.	Dia terlihat suram.	Unflipped
+Kamu berangkat jam berapa?	Kapan kamu akan kembali?	Anda bangun pada pukul berapa?	Unflipped
+Katakan padaku yang sebenarnya.	Tolong katakan yang sebenarnya.	Katakan yang sebenarnya.	Flipped
+Gerbang ditutup pada pukul delapan.	Gerbangnya ditutup jam delapan.	Sudah buka saja pintunya.	Unflipped
+Keluargaku adalah keluarga yang besar.	Orang ini adalah kakakku.	Keluargaku keluarga besar.	Flipped
+Apa kamu punya akun Facebook?	Siapa nama teman Anda?	Punya Facebook?	Flipped
+Penonton tersebut nampak bosan.	Para hadirin nampak bosan.	Kamu kelihatan sedang bosan.	Unflipped
+Tracy menghilangkan kacamatanya.	Tracy kehilangan kacamatanya.	Sebelah matanya buta.	Unflipped
+Saya tidak tahu apakah besok hujan atau tidak.	Aku tidak tahu apakah besok akan hujan.	Mungkin besok akan turun hujan.	Unflipped
+Bagaimana wawancara anda telah berjalan?	Bagaimana dengan wawancara anda?	Bagaimana kabar keluargamu?	Unflipped
+Lari Tom tidak secepat Bill.	Tom tidak berlari secepat Bill.	Tom berbicara lebih lambat daripada Bill.	Unflipped
+Tolong betulkan itu.	Tolong katakan kebenarannya.	Bisakah kau memperbaikinya?	Flipped
+Ia menangis tanpa henti.	Dia terus menangis.	Dia sedang menangis.	Unflipped
+Berapa lama kau tinggal di luar negeri?	Berapa lama Anda bepergian ke luar negeri?	Kamu pernah ke luar negeri?	Unflipped
+Apakah Anda pernah ke London sebelumnya?	Apakah Anda pernah ke Inggris?	Kau pernah ke London?	Flipped
+Dia tidak cocok untuk mengajar.	Dia sering tidak datang ke sekolah.	Dia tidak cocok menjadi guru.	Flipped
+Aku belajar dengan sungguh-sungguh supaya lulus ujian.	Ia memberitahunya untuk belajar lebih keras.	Aku belajar dengan keras untuk lulus ujian.	Flipped
+Jangan terlalu berharap padanya.	Aku harap hujannya berhenti.	Jangan berharap terlalu banyak.	Flipped
+Hal itulah yang membuat perbedaan.	Dan di situlah letak perbedaannya.	Aku tidak sama seperti dulu.	Unflipped
+Apakah anda menyukai makanan Indonesia?	Apa makanan kesukaanmu?	Suka makanan Indonesia?	Flipped
+Awas! Ada lubang besar di sana.	Awas, Ada lubang di jalanan.	Hati-hati! Di sana ada lubang besar.	Flipped
+Dia mencoba berhenti merokok.	Dia sedang berusaha untuk berhenti merokok.	Saya berhenti merokok.	Unflipped
+Saya datang dari Brasil.	Saya dari Brazil	Saya datang dari Australia.	Unflipped
+Saya ingin mendapatkan pemeriksaan dari dokter.	Aku ingin pergi ke dokter.	Sebaiknya kamu mendapat pemeriksaan dokter.	Unflipped
+Aku kecewa dengan film barunya.	Film barunya mengecewakan.	Aku minta maaf sudah mengecewakanmu.	Unflipped
+Dia menganggap kalau dirinya berhasil berkat keberuntungannya.	Dia pasti berhasil.	Dia menganggap kalau keberhasilannya adalah karena keberuntungan.	Flipped
+Ada pertanyaan tentang makanannya?	Sudah makan?	Apa kamu punya pertanyaan tentang makanannya?	Flipped
+Saya bertemu dengannya kemarin.	Aku melihat mereka kemarin.	Aku tidak sengaja bertemu dengannya.	Unflipped
+Dia pergi keluar untuk membeli beberapa makanan.	Ia mengizinkannya pergi keluar sendirian.	Dia pergi untuk membeli makanan.	Flipped
+Saya suka kucing.	Aku suka kucing.	Aku senang kamu menyukainya.	Unflipped
+Oto apo nan katuju?	Lai bisa Uda wak baok oto?	Mobil apa yang kamu suka?	Flipped
+Dia masih belum terbiasa dengan kehidupan kota.	Aku mau pergi ke tengah kota.	Dia belum terbiasa dengan kehidupan di kota.	Flipped
+Semuanya adalah tanggung jawab saya.	Ini semua salahku.	Pekerjaanku telah selesai.	Unflipped
+Ayahku tidak membiarkanku menikahinya.	Ayah temanku adalah seorang novelis terkenal.	Ayahku tidak akan membiarkanku menikahinya.	Flipped
+Aku ingin pergi bersamamu.	Aku ingin pergi jalan-jalan denganmu.	Saya ingin menjumpai kamu.	Unflipped
+Apakah kamu pernah melihat UFO?	Kamu melihat sesuatu?	Pernah melihat UFO?	Flipped
+Ayahku sangat marah mengetahui aku pergi keluar bersama Nimrod Nick.	Ketika ayahku mendapatiku pergi keluar dengan Nimrod Nick, dia menjadi sangat marah.	Ayahku tidak membiarkanku menikahinya.	Unflipped
+Bisa saya minta segelas air?	Pelayan, boleh saya minta air?	Tolong berikan saya sesuatu untuk diminum.	Flipped
+Saya senang Anda menikmatinya.	Aku senang kamu menyukainya.	Aku senang sekali kamu kembali.	Unflipped
+Apakah saya boleh meminjam kamus Anda?	Bolehkah saya meminjam telepon Anda?	Apakah aku boleh meminjam kamusmu?	Flipped
+Apa kau seorang nabatiwan?	Jadi apa yang kau sarankan?	Apa kau nabatiwan?	Flipped
+Kami mengangkat James sebagai ketua.	Kami memilih James sebagai pembicaranya.	Kami mengangkat Jack sebagai ketua.	Unflipped
+Apakah Anda mengenal tuan Brown?	Apa kau kenal dengan tuan Brown?	Apakah kamu tahu ini milik siapa?	Unflipped
+PBB adalah singkatan dari Persatuan Bangsa-Bangsa.	Burj Khalifa adalah bangunan pencakar langit tertinggi di dunia saat ini.	UN adalah singkatan dari United Nations.	Flipped
+Aku mau pergi ke tengah kota.	Saya ingin pergi dengan anda.	Aku mau pergi ke pusat kota.	Flipped
+Itulah jawaban yang benar.	Ternyata itu benar.	Jawabanmu benar.	Flipped
+Mata adalah cermin hati.	Tamu memiliki mata yang tajam.	Cermin hati adalah mata.	Flipped
+Tidak ada yang ingin kukatakan padamu.	Tidak ada yang ingin kuberitahukan padamu.	Saya tidak akan memberitahu siapapun.	Unflipped
+Aku tidak menyangka Tom hadir dalam rapat.	Tom adalah salah satu dari temanku.	Aku sama sekali tidak menyangka kalau Tom hadir dalam rapat.	Flipped
+Tom suka berkeliling sendiri.	Tom ada di rumah.	Tom suka melakukan perjalanan sendirian.	Flipped
+Apakah kamu bisa berbicara dalam bahasa Indonesia?	Dapatkah anda berbicara bahasa Indonesia?	Dapatkah dia berbicara bahasa Inggris?	Unflipped
+Beritahu aku kenapa dia tidak hadir.	Aku kecewa karena dia tidak di sini.	Katakan aku alasan kenapa ia tidak hadir.	Flipped
+Aku akan tinggal jika hujan.	Jika hujan, aku akan tinggal di rumah.	Aku tetap berada di dalam karena hujan sedang turun.	Unflipped
+Saya tidak bisa bicara hal kebalikannya.	Saya tidak boleh bicara hal kebalikannya.	Aku tidak suka cara bicaranya yang lancang.	Unflipped
+Dia punya nyali untuk menolak tawaran itu.	Saya menerima tawaran Anda.	Dia berani menolak tawaran itu.	Flipped
+Di mana kamu mencobanya?	Anda mau mencobanya?	Di mana kamu mencicipinya?	Flipped
+Apakah kamu sudah minum obat?	Sudah minum obat?	Apakah kamu sudah makan?	Unflipped
+Sayang sekali dia tidak bisa datang.	Sayang sekali Anda tidak bisa datang.	Dia belum datang.	Unflipped
+Aku menghilangkan tiketku.	Aku kehilangan tiketku.	Aku ketinggalan keretaku.	Unflipped
+Dia masih terus menulis surat.	Kemaren saya menerima suratnya.	Dia telah menulis sebuah surat.	Flipped
+Hari ini kami tutup.	Aku tidak punya waktu luang hari ini.	Saya tidak ada di kantor hari ini.	Flipped
+Hawaii adalah surga dunia.	Hawaii adalah surga di atas bumi.	Apa kau pernah ke Hawaii?	Unflipped
+Aku tidak mau pergi sendirian.	Kau tidak boleh pergi sendirian.	Aku tidak ingin pergi sendirian.	Flipped
+Saya lapar.	Aku sudah makan.	Aku haus.	Flipped
+Maafkan saya karena datang terlambat.	Aku minta maaf sudah mengecewakanmu.	Maaf aku sudah terlambat cukup lama.	Flipped
+Lari Bill lebih cepat daripada lari Bob.	Bill dapat berlari lebih cepat daripada Bob.	Lari Tom tidak secepat Bill.	Unflipped
+Kuku saya patah.	Saya sakit gigi.	Kukuku patah.	Flipped
+Tom laki-laki yang bisa kamu andalkan.	Tom adalah orang yang bisa diandalkan.	Tom sudah cukup membantu.	Unflipped
+Cium saya.	Cium aku.	Kita saling berciuman.	Unflipped
+Bisakah Anda mengirimkan buku panduannya?	Buku ini milikmu?	Bisakah kau mengirimiku sebuah brosur?	Flipped
+Dasar Tom pembohong!	Tom sudah berbohong padamu.	Tom, kamu pembohong.	Flipped
+Saya punya banyak koleksi perangko.	Aku banyak mengoleksi perangko.	Aku butuh beberapa perangko.	Unflipped
+Kereta sudah datang.	Keretanya tiba tepat waktu.	Keretanya di sini.	Flipped
+Tom di rumah.	Tom adalah seorang kawanku.	Tom ada di dalam rumah.	Flipped
+Lepaskan jasmu.	Tolong lepas jasmu.	Berhentilah melamun.	Unflipped
+Hari ini, aku tidak punya waktu senggang.	Hari ini saya ada waktu luang.	Aku tidak punya waktu luang hari ini.	Flipped
+Apakah itu mobilmu?	Apakah ini mobil anda?	Apakah kamu punya mobil?	Unflipped
+Baik, aku akan terima tawaranmu.	Baik, saya akan terima tawaran Anda.	Saya menerima tawaran Anda.	Unflipped
+Apa masih ada kursi kosong?	Apakah kursi itu kosong?	Apa masih ada beberapa kursi kosong?	Flipped
+Tidak ada hal lain yang bisa kulakukan.	Pekerjaanku telah selesai.	Tidak ada hal yang bisa membuatnya marah.	Unflipped
+Televisinya sudah rusak.	Televisi tidak berfungsi.	Dia sering tampil di TV.	Unflipped
+Tolong perlihatkan SIM Anda.	Tunjukkan paspor Anda.	Tolong tunjukkan SIM Anda.	Flipped
+Tolong ambilkan garam dan mericanya.	Tolong ambilkan aku garamnya.	Maaf, bisa tolong ambilkan garam dan mericanya?	Flipped
+Punya kalian lebih buruk.	Punya kalian lebih jelek.	Kamu adalah pelakunya.	Unflipped
+Kita harus taat peraturan.	Kita harus mematuhi peraturan.	Patuh pada hukum itu diperlukan.	Flipped
+Boleh saya minta bon?	Tolong bonnya.	Boleh minta api?	Unflipped
+Antara Yumi dan Keiko, siapa yang larinya cepat?	Antara Yoko dan Yumi, siapa yang bisa berbahasa Inggris dengan baik?	Siapa yang berlari lebih cepat, Yumi atau Keiko?	Flipped
+Novel barunya akan diterbitkan bulan depan.	Novel barunya akan terbit bulan depan.	Novel ini membosankan.	Unflipped
+Kami tidak pernah lupa.	Aku tidak ingat apa-apa tentang hal itu.	Aku tidak akan pernah lupa.	Flipped
+Dokter itu memberikannya padanya.	Dia adalah seorang dokter.	Dokter memberikan itu padanya.	Flipped
+Terima kasih telah membalasnya dengan cepat.	Terima kasih telah menjawabnya dengan cepat.	Aku senang sekali kamu kembali.	Unflipped
+Dari jauh dia cantik.	Kepada dia.	Dia cantik dari jauh.	Flipped
+Berapa nomor sepatunya?	Berapa ukuran sepatunya?	Berapa usiamu?	Unflipped
+Kamu tidak akan memerlukan itu.	Anda membutuhkannya.	Kau tidak memerlukan ini.	Flipped
+Pernah ke Meksiko?	Apakah Anda pernah ke Meksiko?	Pernah ke Amerika?	Unflipped
+Bangunkan saya pada pukul delapan	Bangunkan aku jam delapan.	Anda bangun pada pukul berapa?	Unflipped
+Jam berapa sekarang di London?	Jam berapa saat ini di London?	Apakah jam itu bekerja?	Unflipped
+Kucing bisa melihat meskipun di tempat gelap.	Kucing bisa melihat meskipun gelap.	Kucing tidak suka air.	Unflipped
+Silakan nikmati buah-buahannya sebanyak yang Anda mau.	Silakan dinikmati buahnya.	Saya senang Anda menikmatinya.	Unflipped
+Di mana dia akan tinggal?	Di mana kamu akan tinggal?	Di manakah mereka?	Unflipped
+Bisakah diperbaiki?	Bisakah kau memperbaikinya?	Apa bisa dibetulkan?	Flipped
+Kenapa tidak datang?	Kenapa kau tidak datang?	Dia tidak datang, katanya.	Unflipped
+Bisa minta tolong ambilkan garamnya?	Tolong ambilkan aku garamnya.	Maaf, bisa tolong ambilkan garam dan mericanya?	Unflipped
+Awas, Ada lubang di jalanan.	Awas! Ada lubang di atas jalan.	Awas! Ada lubang besar di sana.	Unflipped
+Bill tidak pernah adu mulut dengan orang lain.	Bill tidak pernah bertengkar dengan orang lain.	Bill tidak melakukan tindak kejahatan itu.	Unflipped
+Aku harap hujannya berhenti.	Aku harap hujannya akan berhenti.	Mari kita menunggu hujannya berhenti.	Unflipped
+Itu dulunya rumah kami.	Itu dulunya rumah kita.	Rumahku di dekat sini.	Unflipped
+Ini untuk dijual.	Sepertinya itu murah.	Ini dijual.	Flipped
+Aku sudah tidak lagi mempercayai dia.	Aku tidak mencintainya lagi.	Aku sudah tidak percaya padanya.	Flipped
+Kami sedang berada dalam perjalanan pulang.	Dia akan pulang kerumah besok.	Ayo masuk kedalam kembali.	Flipped
+Antara Ken dan Tom, siapa yang berlari dengan cepat?	Siapa yang berlari lebih cepat, Ken atau Tony?	Tom tidak berlari secepat Bill.	Unflipped
+Kamu harus melakukannya, suka tidak suka.	Mau kamu suka atau tidak, kamu harus tetap melakukannya.	Kau harus melaksanakan tugasmu.	Unflipped
+Dia berlari sangat cepat sampai-sampai aku tidak bisa mengejarnya.	Dia berlari terlalu cepat sehingga aku tidak dapat mengejarnya.	Aku berbalapan lari dengannya.	Unflipped
+Hal apa yang paling menakutkan dan pernah terjadi padamu?	Apa yang membuatmu begitu sedih?	Hal menakutkan apa yang pernah kamu alami?	Flipped
+Aku menyekakmat lawanku menggunakan kedua bentengku.	Dia menganggap kalau dirinya berhasil berkat keberuntungannya.	Aku menyekakmat lawanku dengan kedua bentengku.	Flipped
+Mengapa kamu pergi keluar?	Kenapa kau menyerah?	Kapan kamu berangkat?	Unflipped
+Paris adalah ibukota dari Prancis.	Ibukota dari Prancis adalah Paris.	Apakah Paris jauh?	Unflipped
+Saya baru saja selesai makan.	Aku baru makan.	Saya baru saja selesai makan pagi.	Unflipped
+Dengan siapa kamu tinggal?	Kamu tinggal bersama siapa?	Di mana kamu akan tinggal?	Unflipped
+Kita saling cium	Cium saya.	Kita saling berciuman.	Flipped
+Kamu punya kantung mata.	Mata kamu ada kantung matanya tuh.	Sebelah matanya buta.	Unflipped
+Sudah makan?	Apakah kamu sudah makan?	Ada pertanyaan tentang makanannya?	Unflipped
+Apa itu kebahagiaan?	Kebahagiaan itu apa?	Apa ini bukumu?	Unflipped
+Saya bisa berbicara bahasa Inggris sedikit.	Saya kurang mahir berbicara dalam bahasa inggris.	Dapatkah dia berbicara bahasa Inggris?	Unflipped
+Tidak ada hal yang bisa membuatnya marah.	Tidak ada hal lain yang bisa kulakukan.	Apapun yang kau lakukan, dia tidak akan marah.	Flipped
+Permainan ini benar-benar membosankan.	Kamu kelihatan sedang bosan.	Permainan ini sungguh membosankan.	Flipped
+Apa kamu merasa bersalah?	Apa Anda merasa bersalah?	Jadi, apa yang Anda sarankan?	Unflipped
+Ini agak aneh.	Ini rahasia.	Itu sangat aneh.	Flipped
+Tak ada apapun yang kulihat tentang dia, kecuali namanya.	Saya tidak suka namamu.	Aku tahu namamu.	Flipped
+Siapa yang menulis buku itu?	Buku siapa ini?	Buku ini milikmu?	Unflipped
+Keretanya datang tepat waktu.	Keretanya tiba tepat waktu.	Kereta sudah datang.	Unflipped
+Kamu itu masih muda.	Kamu muda.	Mereka masih muda.	Flipped
+Apa yang kau lakukan di akhir pekan?	Apa yang Anda lakukan untuk menghabiskan waktu liburan Anda?	Apa saja yang sudah kamu lakukan minggu ini?	Flipped
+Di mana bank terdekat?	Di mana terminal busnya?	Bank yang terdekat ada di mana?	Flipped
+Bagaimana cara saya mempergunakan kembali tempurung kelapa?	Apa air ini bisa diminum?	Bagaimana cara saya mendaur ulang tempurung kelapa?	Flipped
+Saya mahasiswa.	Saya bukan siswa.	Aku sibuk sekarang.	Flipped
+Kamu dari mana, Karen?	Apakah kamu di sana?	Karen, kamu asalnya dari mana?	Flipped
+Dia menangis sepanjang malam.	Dia terus menangis.	Hujannya bertahan selama semalam penuh.	Flipped
+Ada sedikit makanan di kulkas.	Aku menginginkan sesuatu untuk dimakan.	Di kulkas hampir tidak ada makanan.	Flipped
+Di manakah mereka?	Di mana mereka?	Di mana kamu mencobanya?	Unflipped
+Dilarang merokok di area ini.	Jangan merokok.	Merokok tidak baik untuk Anda.	Unflipped
+Aku sudah makan.	Aku baru makan.	Ayo makan siang!	Flipped
+Kenapa kamu tidak mempercayaiku?	Kenapa kamu tidak membantunya?	Kenapa kau tidak mempercayaiku?	Flipped
+Saya pernah naik gunung Aso.	Saya pernah mendaki gunung Aso.	Aku di gunung.	Unflipped
+Seperti itulah dia, orang yang dingin.	Dia adalah pria yang sangat dingin.	Sore ini sangat dingin.	Unflipped
+Ini alamat e-mailku.	Kemaren saya menerima suratnya.	Ini alamat e-mail saya.	Flipped
+Aku berbalapan lari dengannya.	Dia berlari terlalu cepat sehingga aku tidak dapat mengejarnya.	Aku balapan lari dengannya.	Flipped
+Aku memuji keberanianmu.	Kamu berani sekali.	Aku kagum dengan keberanianmu.	Flipped
+Tom berbicara lebih lambat ketimbang Bill.	Tom tidak berlari secepat Bill.	Tom berbicara lebih lambat daripada Bill.	Flipped
+Makanlah sesuatu.	Kamu harus makan sesuatu.	Aku sudah makan.	Unflipped
+Tom membukakan gerbang untuk Mary.	Tom mengecewakanku.	Tom membukakan pintu untuk Mary.	Flipped
+Tolong tunjukkan kupon Anda.	Bolehkah saya melihat kupon Anda?	Tolong tunjukkan SIM Anda.	Unflipped
+Teruslah membaca.	Tolong bacalah sekali lagi.	Ayo kembali.	Unflipped
+Saya hidup di Indonesia.	Saya tinggal di Indonesia.	Aku punya tempat tinggal.	Unflipped
+Olahraga apa yang paling Anda sukai?	Pelajaran mana yang paling kamu sukai?	Olahraga mana yang kamu sukai?	Flipped
+Mereka ini adalah anak-anakku.	Itu adikku.	Mereka ini adalah anak-anak laki-lakiku.	Flipped
+Bolehkah aku menciummu?	Boleh aku menciummu?	Cium aku.	Unflipped
+Menurutku jika kamu mendengarkan apa yang dikatakan gurumu dengan seksama, kamu akan bisa memahaminya.	Jika kamu mendengarkan penjelasan pak guru dengan lebih baik lagi, kemungkinan kamu akan bisa memahaminya.	Aku bisa memahami apa yang ia katakan.	Unflipped
+Dia sedang melihat langit.	Langit itu biru.	Ia melihat ke atas langit.	Flipped
+Hal semacam itu seringkali terjadi karena kecelakaan ketimbang direncanakan.	Saya hampir saja ditabrak mobil.	Hal semacam itu seringkali merupakan sebuah kecelakan daripada niat buruk seseorang.	Flipped
+Kamu sudah tidur?	Apakah kamu tidur nyenyak?	Kamu lagi tidur?	Flipped
+Aku senang sekali kamu kembali.	Saya senang Anda menikmatinya.	Aku sangat senang kau kembali.	Flipped
+Apa yang membuatnya berubah pikiran?	Kenapa dia berubah pikiran?	Bagaimana kamu bisa terpikirkan hal itu?	Unflipped
+Jauhkah Paris?	Apakah Paris jauh?	Kamu pernah ke Paris?	Unflipped
+Sudahkah kau mencuci mobilnya?	Apa kau sudah mencuci mobilnya?	Apakah ini mobil anda?	Unflipped
+Brian memegang tangan Kate.	Briang menggenggam erat tangan Kate.	John dulu menikah dengan Jane.	Unflipped
+Aku tahu ayahmu.	Aku tahu namamu.	Aku mengenal ayahmu.	Flipped
+Besok hari gajian.	Sampai jumpa besok pagi.	Aku dapat gaji besok.	Flipped
+Apa warna ikan ini?	Apa air ini bisa diminum?	Ikan ini warnanya apa?	Flipped
+Minggu depan di waktu seperti ini, kita ngapain?	Apa kalian ada waktu kosong siang ini?	Apa yang akan kita lakukan minggu depan di waktu seperti ini?	Flipped
+Boleh tolong buka pintunya?	Akankah Anda buka pintunya?	Sudah buka saja pintunya.	Unflipped
+Ibuku sekarang sedang memasak di dapur.	Mama, aku lapar.	Ibu sedang masak di dapur.	Flipped
+Seseorang harus melakukan yang terbaik dalam hal apapun.	Kita harus selalu melakukan yang terbaik.	Kami telah melakukan yang terbaik yang kami bisa.	Unflipped
+Aku ingin mati!	Aku ingin cepat mati.	Aku mohon, jangan mati!	Unflipped
+Perasaanku lega setelah mendengar pengumuman itu.	Kabar baik itu membuatku bersemangat.	Aku masih belum menerima kabar darinya.	Unflipped
+Kamu bilang apa ke Paula?	Apa yang kau katakan pada Paula?	Apa yang membuatmu mengatakan itu?	Unflipped
+Belajar bahasa Inggris adalah kerja keras.	Belajar bahasa Inggris membutuhkan kerja keras.	Saya kurang mahir berbicara dalam bahasa inggris.	Unflipped
+Sepedaku dicuri.	Seseorang mencuri sepedaku.	Kemarin, sepedaku dicuri.	Unflipped
+Apakah jam itu bekerja?	Akan dimulai jam berapa?	Apakah jam itu berfungsi?	Flipped
+Sebaiknya kau pergi ke dokter.	Sebaiknya kamu mendapat pemeriksaan dokter.	Aku ingin pergi ke dokter.	Unflipped
+Dia benar-benar manis sekali.	Dia benar-benar seorang yang baik.	Sayang, benar.	Unflipped
+Aku tidak berniat mempermalukanmu.	Aku tidak berniat menyusahkanmu.	Kau tidak memerlukannya.	Unflipped
+Aku lelah dengan hidup yang monoton ini.	Aku lelah dengan kehidupanku yang monoton.	Kamu terlihat sangat lelah.	Unflipped
+Di sini terlalu berisik.	Di sini sangat berisik.	Dia masih belum di sini.	Unflipped
+Anda berada dijalan saya.	Anda berada dijalan yang benar.	Kau berada di jalanku.	Flipped
+Kakakku suka musik.	Ini adikku.	Adikku suka musik.	Flipped
+Mike tersenyum.	Kami memanggilnya Mike.	Mike tertawa.	Flipped
+Dia berjanji, tak akan memberi tahu siapa pun.	Saya tidak akan memberitahu siapapun.	Inyo lah janji indak ka mangecekannyo ka urang lain.	Flipped
+Surat itu akan tiba besok.	Surat itu akan sampai besok.	Kemaren saya menerima suratnya.	Unflipped
+Karena macet, aku terlambat datang ke rapat.	Maafkan saya karena datang terlambat.	Aku terlambat datang ke rapat karena terjebak macet.	Flipped
+Ruangan ini mendapat sedikit sinar matahari.	Ada AC di ruangan ini.	Ruangan ini tidak mendapat banyak sinar matahari.	Flipped
+Nancy menceritakan kepadaku tentang kebakaran itu.	Nancy memberitahuku tentang kebakaran itu.	Api lilinnya mati sendiri.	Unflipped
+Sepeda siapa ini?	Apakah Anda punya sepeda?	Sepeda ini milik siapa?	Flipped
+Anda akan pergi ke mana di hari libur?	Bisakah aku mendapatkan hari libur?	Ke mana Anda akan pergi liburan?	Flipped
+Saya tidak takut hantu.	Aku percaya akan adanya hantu.	Aku tidak takut dengan hantu.	Flipped
+Apa sedang hujan?	Hujan?	Nampaknya hujan.	Unflipped
+Apa kamu pernah pergi ke Paris?	Apa kau pernah ke Prancis?	Kamu pernah ke Paris?	Flipped
+Sudahkan kau menghabiskan makan siangmu?	Apa kau sudah menghabiskan makan siangmu?	Sudahkah kau menghabiskan sarapanmu?	Unflipped
+Aku tidak menyangka akan bertemu denganmu di sini.	Tak pernah terpikirkan aku akan bertemu denganmu di tempat seperti ini, bahkan di dalam mimpi sekalipun.	Aku tidak sengaja bertemu dengannya.	Unflipped
+Mudah didapat, mudah hilang.	Dia mudah sekali marah.	Tuhan memberi, Tuhan mengambilnya.	Flipped
+Tom adalah seorang yang pandai memasak.	Tom pandai dalam hal memasak.	Tom telah diracuni.	Unflipped
+Sampai jumpa besok pagi.	Surat itu akan sampai besok.	Sampai ketemu besok!	Flipped
+Aku hanya ingin berkata bahwa aku cinta padamu.	Aku hanya ingin bilang aku cinta padamu	Ada hal yang ingin aku katakan padamu.	Unflipped
+Hampir saja aku tertabrak mobil.	Saya hampir saja ditabrak mobil.	Aku tidak sengaja bertemu dengannya.	Unflipped
+Kenapa kau berkata begitu?	Kenapa kau berpikir begitu?	Apa yang membuatmu mengatakan itu?	Flipped
+Aku ingin kertas.	Anda membutuhkannya.	Aku perlu kertas.	Flipped
+Bolehkah saya mencoba mengenakan ini?	Anda mau mencobanya?	Bisakah aku mencoba memakainya?	Flipped
+Saya cuma melihat-lihat.	Tidak terima kasih, saya hanya melihat-lihat saja.	Kamu harusnya melihatnya.	Unflipped
+Apa yang kamu hadiahkan di hari ulang tahun Mike?	Apa yang akan kamu berikan pada Mike di hari ulang tahunnya?	Mike tersenyum.	Unflipped
+Bom waktu yang meledak di dalam bandara itu menewaskan tiga belas orang.	Sebuah bom waktu meledak di bandara dan merenggut nyawa 13 orang.	Saya akan mengantar anda ke bandar udara.	Unflipped
+"Umur?" "16."	"Berapa umurmu?" "Aku enam belas tahun."	Berapa umurmu?	Unflipped
+Minggu ini aku mau bawa bekal makan.	Ayo makan siang!	Aku pikir aku akan membawa bekal makanan minggu ini.	Flipped
+Di luar turun salju lo.	Sebentar lagi hujan akan turun.	Sedang turun hujan.	Flipped
+Apakah jawaban saya benar?	Itulah jawaban yang benar.	Apakah jawaban saya tepat?	Flipped
+Dia memalsukan umurnya.	Dia sudah berumur.	Dia memalsukan usianya.	Flipped
+Boleh aku kasih tahu ke Tom?	Bisakah saya berbicara dengan Tom?	Bertanyalah pada Tom.	Unflipped
+Mukamu merah.	Dia mempunyai banyak mutu.	Wajahnya memerah.	Flipped
+Bayi ini usianya tiga minggu.	Awasi bayinya sebentar.	Usia bayi ini tiga minggu.	Flipped
+Tinggi Tom sama dengan Jack.	Tinggi Tom kurang lebih sama dengan Jack.	Tom lebih tinggi daripada aku.	Unflipped
+Harga tiket masuk ke museum tiga puluh dollar.	Beli tiket di mana, ya?	Tiket masuk ke museum harganya tiga puluh dollar.	Flipped
+Aku memeluk kalian.	Aku memelukmu	Kepada kalian.	Unflipped
+Kami berkendara ke Hakone hari Minggu yang lalu.	Saya pernah naik gunung Aso.	Hari Minggu yang lalu kami pergi ke Hakone dengan berkendara mobil.	Flipped
+Kalau nggak diminta, dia nggak bakal ngomong.	Tidak ada yang ingin kukatakan padamu.	Dia tidak akan berbicara selama tidak diminta.	Flipped
+Aku harus tahu dengan pasti.	Aku perlu tahu secara pasti.	Saya belum yakin.	Unflipped
+Saya suka coklat.	Aku senang kamu menyukainya.	Aku suka cokelat.	Flipped
+Aku kecewa karena dia tidak di sini.	Saya mengecewakan karena dia (laki-laki) tidak hadir	Dia masih belum di sini.	Unflipped
+Aku baru saja mulai.	Aku baru saja memulainya.	Saya mulai.	Unflipped
+Saya menerima tawaran Anda.	Saya menyetujui usulnya.	Baik, saya akan terima tawaran Anda.	Unflipped
+Tolong beritahu cara penulisan nama Anda.	Bagaimana mengeja namamu.	Aku tahu namamu.	Unflipped
+Selamat tidur, Bu.	Saya belum tidur.	Selamat malam, Bu.	Flipped
+Mungkin kalian telah melakukan sebuah kesalahan.	Aku pasti sudah membuat sebuah kesalahan.	Mungkin kalian telah membuat sebuah kesalahan.	Flipped
+Apa kau memiliki sebuah rencana?	Apakah ia memiliki sebuah piano?	Jadi, apa yang Anda sarankan?	Unflipped
+Rumahku berada di atas bukit.	Rumahku di dekat sini.	Rumah saya terletak di sebuah bukit.	Flipped
+Apa yang makan Kan?	Apa yang sedang Tom makan?	Ada pertanyaan tentang makanannya?	Unflipped
+Apakah kamu mau makan malam dengan saya besok, di rumah saya?	Maukah Anda pergi makan bersama saya?	Kamu mau makan malam denganku besok, di rumahku?	Flipped
+Boneka itu menyeramkan.	Boneka itu seram.	Dia terlihat suram.	Unflipped
+Saya suka mempelajari bahasa-bahasa kuno.	Dia memiliki pengetahuan yang luas tentang bidang linguistik.	Saya suka belajar bahasa-bahasa kuno.	Flipped
+Merokok tidak baik untuk Anda.	Jangan merokok.	Merokok berbahaya bagi tubuh.	Flipped
+Saya mulai.	Aku baru saja mulai.	Aku yang pertama.	Flipped
+Kami memanggilnya Mike.	Mike tersenyum.	Kami memanggil dia Mike.	Flipped
+Aku pikir aku paham.	Kurasa aku paham.	Tidak ada yang memahami saya.	Unflipped
+Kamu berani sekali.	Aku memuji keberanianmu.	Kurang ajar sekali kamu!	Flipped
+Busnya terlambat karena kemacetan lalu lintas.	Karena macet, aku terlambat datang ke rapat.	Busnya terlambat karena lalu lintas yang macet.	Flipped
+Orang ini adalah kakakku.	Dia kakakku.	Saya punya kakak tiri.	Unflipped
+Tom berbohong padamu.	Tom, kamu pembohong.	Tom sudah berbohong padamu.	Flipped
+Saya akan mengantar anda ke bandar udara.	Aku akan mengantarmu sampai ke bandara.	Saya ingin pergi dengan anda.	Unflipped
+Aku suka film.	Aku suka pergi ke bioskop.	Saya pergi ke bioskop.	Unflipped
+Tom tidak terbiasa hidup di kota.	Tom tidak terbiasa dengan kehidupan di kota.	Tom ada di rumah.	Unflipped
+Aku adalah manusia.	Aku laki-laki.	Saya bukan idiot.	Unflipped
+Dia selalu memberikan senyuman.	Dia terus menangis.	Senyum.	Flipped
+Aku akan mengirimnya kembali.	Ayo kembali.	Aku akan membawanya kembali.	Flipped
+Kami bisa menemukan teman-teman kami kemanapun kami pergi.	Dia terus berpikir bahwa kita adalah temannya.	Kita bisa menemukan teman kemanapun kita pergi.	Flipped
+Nama keluarga saya adalah Wang.	Keluargaku adalah keluarga besar.	Nama margaku adalah Wang.	Flipped
+Boleh saya lihat daftar minuman anggurnya?	Berikan aku sebotol anggur.	Bisakah aku melihat daftar minuman anggurnya?	Flipped
+Ini adalah dunia kecil.	Ini agak aneh.	Inilah dunia kecil.	Flipped
+Mengapa kamu terlihat begitu sedih?	Kenapa kau berpikir begitu?	Apa yang membuatmu begitu sedih?	Flipped
+Seorang pengemudi harus mengenakan sabuk pengaman.	Orang yang mengemudikan mobil harus mengenakan sabuk pengaman.	Kita harus taat peraturan.	Unflipped
+Anak-anakku tidak memiliki kamarnya sendiri.	Anak-anak lu punya kamar sendiri ga?	Anak-anakku tidak punya kamar sendiri.	Flipped
+Tanyalah Tom.	Bertanyalah pada Tom.	Tom adalah seorang kawanku.	Unflipped
+Mari kita melakukannya dengan tidak tergesa-gesa dan sesuaikan dengan kemampuan kita.	Mari kita melakukannya dengan santai dan tidak tergesa-gesa.	Kami telah melakukan yang terbaik yang kami bisa.	Unflipped
+Apa kau pernah ke Hawaii?	Pernahkah kau ke Hawaii?	Kamu pernah ke luar negeri?	Unflipped
+Mari kita melakukannya ketika ia tiba.	Mari kita melakukannya lagi.	Mari kita melakukannya setelah ia tiba.	Flipped
+Aku suka rambutmu.	Aku senang kamu menyukainya.	Aku sangat suka rambutmu.	Flipped
+Seekor kucing keluar dari kolong meja.	Seekor kucing muncul dari kolong meja.	Tom bersembunyi di bawah meja.	Unflipped
+Tolong buka jendelanya.	Bisakah kau membuka jendelanya?	Sudah buka saja pintunya.	Unflipped
+Aku tidak mau memakannya.	Aku sudah makan.	Saya tidak mau memakan itu.	Flipped
+Sebelum dia datang, aku tidak bisa pergi.	Sayang sekali dia tidak bisa datang.	Aku tidak bisa pergi sebelum dia datang.	Flipped
+Kamu koki yang terampil.	Kamu pintar masak, ya.	Kamu adalah pelakunya.	Unflipped
+Saya lebih suka pergi keluar daripada diam di rumah.	Datanglah ke rumah kapanpun kamu suka.	Aku lebih memilih pergi keluar daripada berdiam diri di rumah.	Flipped
+Mau istirahat?	Mau istirahat sebentar?	Ngantuk?	Unflipped
+Tom berbicara dengan sangat cepat.	Tom terus berbicara.	Tom ngomongnya cepat yah.	Flipped
+Aku seorang penata buku.	Aku pernah membaca buku itu sebelumnya.	Aku seorang akuntan.	Flipped
+Kamu pernah ke luar negeri?	Sudah berapa lama Anda di luar negeri?	Pernahkah kau pergi ke luar negeri?	Flipped
+Masih ada kemungkinan kalau itu benar.	Tidak ada ruang untuk ragu.	Ternyata itu memang benar.	Unflipped
+Kau seorang peminum kopi atau teh?	Ingin minum kopi?	Mau kopi atau teh?	Flipped
+Bagaimana cuacanya di New York?	Pernah ke Amerika?	Cuaca di New York bagaimana?	Flipped
+Kami berencana untuk tinggal selama seminggu.	Kami dijadwalkan akan tinggal selama seminggu.	Hujannya bertahan selama seminggu.	Unflipped
+Apakah kamu punya mobil?	Apakah itu mobilmu?	Apakah Anda punya mobil?	Flipped
+Antara Yoko dan Yumi, siapa yang bisa berbahasa Inggris dengan baik?	Siapa yang lebih bisa berbahasa Inggris, Yoko atau Yumi?	Yumi adalah salah seorang dari temanku.	Unflipped
+Ini komputer saya.	Ini adalah komputerku.	Ini adikku.	Unflipped
+Aku merasa seperti orang bodoh.	Aku merasa bodoh.	Saya bukan idiot.	Unflipped
+Aku ingin menyanyikan lagu itu.	Aku ingin menyanyikan sebuah lagu.	Aku ingin menunjukkannya padamu.	Unflipped
+Tom turun dari ranjangnya jam 6:30, lalu beranjak menuju dapur dan meletakkan dua potong roti ke dalam pemanggang.	Setelah Tom turun dari tempat tidurnya pada pukul 6:30, ia buru-buru pergi ke dapur dan memasukkan dua potong roti ke dalam pemanggang.	Tom sedang makan siang.	Unflipped
+Di mana kamu telah belajar menembak?	Di mana kamu mencobanya?	Di mana kamu belajar menembak?	Flipped
+Aku membayar dua ratus dolar untuk pajak.	Aku membayar $200 untuk pajak.	Hidup barulah dimulai setelah membayar pajak.	Unflipped
+Aku pasti sudah membuat sebuah kesalahan.	Mungkin kalian telah membuat sebuah kesalahan.	Saya pasti sudah membuat kesalahan.	Flipped
+Kalau nggak cepat-cepat, nanti terlambat lo.	Maaf aku sudah terlambat cukup lama.	Cepatlah, atau kau akan terlambat.	Flipped
+Tolong nyalakan lampunya.	Tolong matikan lampunya.	Tolong nyalakan radionya.	Unflipped
+Tersangkanya perempuan Kaukasia.	Tersangkanya adalah wanita kulit putih.	Dia adalah keturunan orang Rusia.	Unflipped
+Di Jepang, sekarang 3:00 pagi.	Di Jepang, sekarang pukul tiga pagi.	Ini sudah jam tujuh.	Unflipped
+Lilinnya padam dengan sendirinya.	Tolong nyalakan lampu.	Lilinnya mati sendiri.	Flipped
+Pergilah ke dokter dan dapatkan resep obat!	Kau harus berkonsultasi dengan doktermu.	Pai lah ka dokter untuak ambiak resep ubek!	Flipped
+Membayar pajak adalah awal dari kehidupan yang sebenarnya.	Aku membayar dua ratus dolar untuk pajak.	Hidup dimulai ketika kau membayar pajak.	Flipped
+Bisakah aku mendapatkan hari libur?	Anda akan pergi ke mana di hari libur?	Bisakah aku mengambil hari libur?	Flipped
+Bolehkah aku berbicara dengan Tn. Sato?	Apakah saya bisa berbicara dengan Bapak Sato?	Bisakah saya berbicara dengan Tom?	Unflipped
+Aku akan kembali dalam waktu satu jam.	Aku akan kembali setelah satu jam.	Aku akan mengembalikannya.	Unflipped
+Apakah Anda punya sepeda?	Apakah kamu punya sepeda?	Apakah Anda punya mobil?	Unflipped
+Saya sudah berada di gunung	Aku di gunung.	Aku menapaki bukit.	Unflipped
+Kamu melihat sesuatu?	Kamu harusnya melihatnya.	Kamu tidak melihat apa-apa?	Flipped
+Langitnya biru.	Langit itu biru.	Langitnya menjadi mendung.	Unflipped
+Dia membuka pintu.	Sudah buka saja pintunya.	Dia membuka jendela.	Unflipped
+Jangan biarkan kesempatan itu pergi.	Kita tinggalkan saja dia.	Jangan buang kesempatan emasmu.	Flipped
+Aku menderita sakit gigi yang parah.	Saya menderita sakit kepala yang parah.	Saya sakit gigi.	Flipped
+Siapa yang akan menjaga bayinya?	Siapa yang bersedia merawat bayi ini?	Jaga bayinya sebentar.	Unflipped
+Kelihatannya itu murah.	Ini dijual.	Sepertinya itu murah.	Flipped
+Besok saya akan pergi ke Hokkaido.	Sampai jumpa besok pagi.	Besok aku berencana untuk bepergian ke Hokkaido.	Flipped
+Awak jo kawan wak ka pai ka Jopang bulan Agustus.	Inyo lah janji indak ka mangecekannyo ka urang lain.	Aku dan temanku akan pergi ke Jepang pada bulan Agustus.	Flipped
+Apa yang kamu beli?	Beli apa?	Jadi, apa yang Anda sarankan?	Unflipped
+Selamat datang di Tatoeba!	Ayo masuk kembali ke dalam.	Selamat datang di situs Proyek Tatoeba.	Flipped
+Jika aku bisa terlahir kembali, aku ingin jadi kucing.	Aku suka kucing.	Kalau aku reinkarnasi, aku ingin terlahir kembali sebagai kucing.	Flipped
+Berapa umurnya?	Berapa usiamu?	Dia sudah berumur.	Unflipped
+Aku ketinggalan keretanya.	Keretanya di sini.	Aku ketinggalan keretaku.	Flipped
+Aku berpikir kalau mungkin kau bisa membantuku.	Aku kira kau bisa membantuku.	Kau bisa menelponku kapan saja.	Unflipped
+Kami melihat Jane berenang menyeberangi sungai.	Kami melihat Jane menyeberangi sungai dengan berenang.	John dan Jane dulunya adalah pasangan suami istri.	Unflipped
+Saya punya adik tiri.	Saya punya kakak tiri.	Ini adik perempuanku.	Unflipped
+Muiriel berumur 20 sekarang.	Hari ini tanggal 18 Juni dan merupakan ulang tahunnya Muiriel!	Muiriel sudah 20 tahun	Flipped
+Saya yakin kamu akan berhasil.	Aku harap aku bisa melakukannya.	Dia pasti berhasil.	Flipped
+Apa kau sudah pergi ke dokter?	Apa kau sudah mendapat pemeriksaan dari dokter?	Sebaiknya kau pergi ke dokter.	Unflipped
+Karena ia sangat mabuk, ia tidak bisa mengemudikan mobilnya menuju rumahnya.	Ia terlalu mabuk untuk berkemudi menuju rumah.	Kami sedang berada dalam perjalanan pulang.	Unflipped
+Kamu capek?	Ngantuk?	Kamu sudah tidur?	Unflipped
+Ia sedang meminum airnya.	Aku minum air.	Dia minum air.	Flipped
+Ibu saya gila.	Ibuku gila.	Mama, aku lapar.	Unflipped
+Bisakah kau menggunakan bahasa Inggris?	Saya bisa berbicara bahasa Inggris sedikit.	Dapatkah dia berbicara bahasa Inggris?	Flipped
+Tom punya teman yang ayahnya seorang astronot.	Di antara teman-teman Tom, ayahnya ada yang bekerja sebagai seorang astronot.	Tom adalah salah satu dari temanku.	Unflipped
+Sangat disayangkan Anda tidak dapat bergabung dengan kami.	Sayang sekali Anda tidak bisa datang.	Sayang sekali kau tidak bisa bergabung dengan kami.	Flipped
+Aku tetap berada di dalam karena hujan sedang turun.	Karena sedang turun hujan, aku tidak keluar dari rumah.	Aku terjebak di tengah hujan.	Unflipped
+Kamu tidak harus pergi kecuali kalau kamu memang mau.	Kalau tidak mau pergi, kamu tak usah pergi	Kau tidak seharusnya pergi seorang diri.	Unflipped
+Saya malu menanyakan pertanyaan konyol seperti ini.	Jangan ragu untuk menanyakan pertanyaan jika tidak mengerti.	Saya malu menanyakan pertanyaan bodoh seperti itu.	Flipped
+Antara Ken dan Taro, siapa yang badannya lebih tinggi?	Siapa yang lebih tinggi, Ken atau Taro?	Antara kau dan Ken, siapa yang badannya lebih tinggi?	Unflipped
+Ken dan adik laki-lakinya sangat mirip.	Siapa yang lebih tinggi, kau atau Ken?	Ken dan saudara laki-lakinya hampir serupa.	Flipped
+Kita dapat banyak hujan musim panas ini.	Hujan terus turun hingga sehari penuh.	Musim panas tahun ini banyak turun hujan.	Flipped
+Kalau naik pesawat lebih mahal lho!	Kalau naik pesawat bakalan mahal tau.	Pernahkah kau ke Hawaii?	Unflipped
+Dia terlihat muda untuk orang seusianya.	Dia masih muda.	Dia terlihat muda.	Flipped
+Karena keretanya penuh, aku berdiri sepanjang jalan menuju Tokyo.	Jika Anda tidak ingin ketinggalan kereta, sebaiknya Anda bergegas.	Karena keretanya penuh, saya terus berdiri hingga saya tiba di Kyoto.	Flipped
+Siapapun bisa melakukan ini.	Tidak ada hal lain yang bisa kulakukan.	Siapapun bisa melakukan itu.	Flipped
+Rumah itu dicat oleh seorang profesional.	Rumah itu dicat dengan bantuan tukang cat.	Rumahku berada di atas bukit.	Unflipped
+Kita harus terus bekerja.	Mari kita lakukan lagi.	Kita harus tetap bekerja.	Flipped
+Kenapa kau membutuhkan ini?	Kau tidak memerlukan ini.	Kenapa kau membutuhkannya?	Flipped
+Tom punya darah tinggi.	Tom tekanan darahnya tinggi.	Tom keracunan.	Unflipped
+Kita tinggalkan saja dia.	Ia mengizinkannya pergi keluar sendirian.	Kita buang saja dia.	Flipped
+Kereta apa yang akan kamu naiki?	Kereta mana yang akan Anda naiki?	Mobil apa yang kamu suka?	Unflipped
+Bila anda mendaftar di Facebook, data pribadi anda akan dikirim ke agen intelejen.	Jika Anda mendaftar di Facebook, informasi pendaftaran akan dikirim ke agen intelejen.	Apa kamu punya akun Facebook?	Unflipped
+Dia masih berpikir kita adalah temannya.	Dia terus berpikir bahwa kita adalah temannya.	Saya pikir dia sakit.	Unflipped
+Tom kelas berapa?	Kelas berapa Tom?	Tom adalah seorang siswa SMA.	Unflipped
+Sepertinya dia yakin bahwa apa yang dia katakan adalah benar.	Ternyata itu memang benar.	Sepertinya orang itu yakin bahwa apa yang ia katakan benar.	Flipped
+Bill tidak melakukan perbuatan dosa itu.	Bill tidak pernah bertengkar dengan orang lain.	Bill tidak melakukan tindak kejahatan itu.	Flipped
+Aku punya tempat tinggal.	Aku punya setidaknya satu rumah.	Aku haus.	Unflipped
+Aku mendaki bukit dengan berjalan kaki.	Aku menapaki bukit.	Aku di gunung.	Unflipped
+Saya tidak pernah mengatakan itu.	Aku tidak akan pernah mau melakukannya.	Aku tidak pernah berkata itu.	Flipped
+Saya mendengar anda, tapi saya tidak dapat melihat anda.	Suaramu bisa kudengar, tetapi sosokmu tidak bisa kulihat.	Aku mendengar suara siulan seseorang.	Unflipped
+Kamu bisa lihat manusia transparan?	Kamu melihat sesuatu?	Kamu bisa melihat manusia transparan itu?	Flipped
+Sore ini sangat dingin.	Dingin sekali ya malam ini.	Seperti itulah dia, orang yang dingin.	Unflipped
+Tom pulang ke rumah lebih awal kemarin.	Tom ada di rumah.	Tom pulang lebih awal kemarin.	Flipped
+Siapa nama teman Anda?	Aku tahu namamu.	Nama temanmu siapa?	Flipped
+Dia sering muncul di televisi.	Televisinya sudah rusak.	Dia sering tampil di TV.	Flipped
+Tom tertarik pada matematika.	Tom memiliki ketertarikan pada matematika.	Tom sepertinya agak kebingungan.	Unflipped
+Ada hal yang ingin aku katakan padamu.	Ada satu hal yang ingin aku tahu.	Aku ingin mengajarimu sesuatu.	Flipped
+Apa kau pernah ke Prancis?	Apa kamu pernah pergi ke Paris?	Apa kau pernah pergi ke Prancis sebelumnya?	Flipped
+Aku mendengar seseorang bersiul.	Di sini sangat berisik.	Aku mendengar suara siulan seseorang.	Flipped
+Dia tidak datang, katanya.	Dia belum datang.	Pria itu tidak datang kata perempuan itu.	Flipped
+Dia pergi memancing sebagai ganti bermain tenis.	Dia pergi memancing, bukannya bermain tenis.	Aku lebih suka ikan ketimbang daging.	Unflipped
+Kami mengimpor teh dari India.	Ia mengendarai mobil impor.	Negara kami mengimpor teh hitam dari India.	Flipped
+Apa acara televisi kesukaanmu?	Apa makanan kesukaanmu?	Apa acara TV kesukaanmu?	Flipped
+Kepalaku masih terasa pusing.	Kepalaku sakit.	Kepala saya masih merasa pusing.	Flipped
+apakah anak-anakmu punya kamar sendiri	Anak-anakku tidak punya kamar sendiri.	Anak-anak lu punya kamar sendiri ga?	Flipped
+Tom menyembunyikan dirinya di bawah meja.	Tom bersembunyi di bawah meja.	Tom ada di dalam rumah.	Unflipped
+Selamat Ulang tahun Muiriel!	Selamat ulang tahun, Muriel!	Hari ini tanggal 18 Juni dan merupakan ulang tahunnya Muiriel!	Unflipped
+Aku biasa makan siang di sana.	Hampir setiap waktu saya makan sarapan di sana.	Saya baru saja selesai makan pagi.	Unflipped
+Apa kabar, Tom?	Bagaimana perasaanmu, Tom?	Tom orangnya baik?	Unflipped
+Jaga bayinya sebentar.	Sayang, benar.	Awasi bayinya sebentar.	Flipped
+Kalau kamu tidur di sini, nanti kamu kena pilek.	Jika kamu tidur di tempat seperti ini, kamu akan kena flu.	Saya kira Anda terkena flu.	Unflipped
+Ia membolehkannya pergi sendirian.	Kau tidak boleh pergi sendirian.	Ia mengizinkannya pergi keluar sendirian.	Flipped
+Saya sependapat dengan opini Anda terkait pajak.	Saya setuju dengan pendapat Anda mengenai pajak.	Aku membayar dua ratus dolar untuk pajak.	Unflipped
+Sedang apa kamu di tempat gelap seperti itu?	Apa yang kamu lakukan di tempat segelap itu?	Apakah kamu di situ?	Unflipped
+Aku baru saja selesai sarapan.	Saya baru saja selesai makan pagi.	Saya baru saja selesai makan.	Unflipped
+Aku besar di Boston.	Aku dibesarkan di Boston.	Kami mendapat masalah besar.	Unflipped
+Tanya Alex.	Cobalah bertanya pada Alex.	Dia orang Rusia.	Unflipped
+Bin, apakah kamu menyukai bola basket?	Apakah kamu menyukai baseball, Bin?	Olahraga mana yang kamu sukai?	Unflipped
+Apa makanan favoritmu?	Apa kamu punya pertanyaan tentang makanannya?	Apa makanan kesukaanmu?	Flipped
+Nama belakang saya Ikeda dan nama depan saya Kazuko.	Saya lupa nama Anda.	Ikeda nama belakangku, dan Kazuko nama depanku.	Flipped
+Stasiun kereta ada di mana?	Di mana tempat pemberhentian busnya?	Kereta mana yang akan Anda naiki?	Unflipped
+Datanglah ke rumah kapanpun kamu suka.	Kau bisa menelponku kapan saja.	Kapan kamu pulang ke rumah?	Unflipped
+Aku tidak ingat apa-apa tentang hal itu.	Aku tidak akan pernah lupa.	Aku tidak dapat mengingat apapun tentang hal itu.	Flipped
+Kamu harusnya melihatnya.	Aku ingin menunjukkannya padamu.	Anda membutuhkannya.	Unflipped
+Bill memanggilku semalam.	Bill tidak melakukan tindak kejahatan itu.	Bill meneleponku tadi malam.	Flipped
+Pelayan, boleh saya minta air?	Bisa saya minta segelas air?	Pelayan, tolong bawakan aku air.	Flipped
+Dia sering absen dari sekolah.	Dia sering tidak datang ke sekolah.	Dia suka terlambat ke sekolah.	Unflipped
+Tidak ada yang memahami saya.	Aku pikir aku paham.	Tidak ada yang mengerti aku.	Flipped
+Bagaimana kalau pergi ke bioskop?	Aku suka pergi ke bioskop.	Saya pergi ke bioskop.	Flipped
+Berapa lama saya bisa terlindung dari pasir kuning, yang mana ukurannya lebih kecil daripada serbuk sari dengan menggunakan masker? Pasir itu sepertinya lebih menganggu ketimbang serbuk sari.	Sudah berapa lama kamu pakai lensa?	Seberapa baik masker menahan debu pasir kuning, yang mana ukurannya lebih kecil daripada serbuk sari? Aku pikir pasir itu lebih mengganggu ketimbang serbuk sari.	Flipped
+Dikatakan bahwa bangsa Viking mendahului Columbus dalam menemukan benua Amerika.	Dia membutuhkan waktu 30 hari untuk mengarungi Samudera Pasifik.	Dikatakan bahwa bangsa Viking lebih dulu menemukan benua Amerika sebelum Columbus.	Flipped
+Ini rahasia.	Ini perihal yang rahasia.	Sekarang saya tahu rahasiamu.	Unflipped
+Wendy, aku ingin kau bertemu dengan adikku Sam.	Nancy terlihat seperti adikku.	Wendy, ini adikku Sam.	Flipped
+Antara kau dan Ken, siapa yang badannya lebih tinggi?	Siapa yang lebih tinggi, kau atau Ken?	Antara Ken dan Taro, siapa yang badannya lebih tinggi?	Unflipped
+Anda berada dijalan yang benar.	Ambilah jalan yang benar.	Apa yang kamu lakukan tidak salah.	Flipped
+Apakah kamu di situ?	Apakah kamu di sana?	Apakah kamu sudah makan?	Unflipped
+Saya kehilangan dompet saya.	Dompetku hilang.	Aku kehilangan tiketku.	Unflipped
+Film ini didasarkan pada novel.	Film ini adalah adaptasi dari novel.	Novel ini membosankan.	Unflipped
+Burj Khalifa adalah bangunan pencakar langit tertinggi di dunia saat ini.	PBB adalah singkatan dari Persatuan Bangsa-Bangsa.	Burj Khalifa saat ini gedung pencakar langit tertinggi di dunia.	Flipped
+Apa air ini bisa diminum?	Apa air ini baik untuk diminum?	Ia sedang meminum airnya.	Unflipped
+Mari kita melakukannya lagi.	Ayo kembali.	Ayo coba sekali lagi.	Flipped
+Aku dengar Robert sedang sakit.	Katanya Robert sedang tidak enak badan.	Saya pikir dia sakit.	Unflipped
+Dia delapan tahun.	Dia sudah berumur.	Dia berumur 8 tahun.	Flipped
+Angkat kepalamu.	Balikkan badanmu.	Aku sakit kepala.	Unflipped
+Kamu boleh pilih buku mana saja yang kamu suka.	Kau boleh memilih buku manapun yang kau suka.	Pengarang favoritmu siapa?	Unflipped
+Anda membutuhkannya.	Mereka membutuhkannya	Kau tidak memerlukan itu.	Unflipped
+Tolong katakan kebenarannya.	Katakan yang sebenarnya.	Tolong ceritakan yang sebenarnya.	Flipped
+Tamu duduk beberapa menit, tetapi melihat semuanya.	Mari kita menunggu hingga hujannya berhenti.	Tamu memiliki mata yang tajam.	Flipped
+Tom terlihat sedikit kebingungan.	Tom membuatku kecewa.	Tom sepertinya agak kebingungan.	Flipped
+Tom sangat bagus.	Tom sudah cukup membantu.	Tom lumayan bagus.	Flipped
+Piza adalah makanan kesukaanku.	Aku suka makan semangka.	Piza adalah makanan favoritku.	Flipped
+Tom dan Frank adalah teman yang baik.	Tom dan Frank adalah kawan baik.	Tom itu temanku.	Unflipped
+Aku akan membantumu pindah ke rumah barumu.	Saya akan membantu Anda pindah ke rumah baru Anda.	Aku kira kau bisa membantuku.	Unflipped
+Kau bisa memanggilku Bob.	Anda cukup memanggil saya Bob.	Kau bisa menelponku kapan saja.	Unflipped
+Rumahku dekat stasiun.	Rumahku di dekat sini.	Rumahku dekat stasiun dan nyaman.	Flipped
+Kakakmu akan menunjukkannya padamu.	Kakakmu akan memberitahumu.	Ini adik perempuanku.	Unflipped
+Hal ini tidak akan pernah berakhir.	Tiada akhir	Aku tidak akan pernah lupa.	Unflipped
+Kami selalu membantu Tom.	Tom sudah cukup membantu.	Kami sedang membantu Tom.	Flipped
+Mari kita menunggu hingga hujannya berhenti.	Mari kita menunggu hujannya berhenti.	Aku harap hujannya berhenti.	Unflipped
+Aku tidak bisa tidur.	Saya belum tidur.	Aku tidak bisa melakukannya.	Unflipped
+Ada satu hal yang ingin aku tahu.	Aku penasaran tentang satu hal.	Ada hal yang ingin aku katakan padamu.	Unflipped
+Apakah saya boleh menggunakan ponsel Anda?	Boleh pinjam ponselmu?	Apakah itu mobilmu?	Unflipped
